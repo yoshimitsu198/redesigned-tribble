@@ -18,3 +18,5 @@ LOG_FILE = "app.log"
 
 
 # add_debug_mode - commit 5
+
+# add_version_constant - commit 6
