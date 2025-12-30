@@ -16,3 +16,5 @@ MAX_RETRIES = 3
 LOG_LEVEL = "INFO"
 LOG_FILE = "app.log"
 
+
+# add_debug_mode - commit 5
