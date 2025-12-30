@@ -19,3 +19,6 @@ def setup_logger():
     
     return logger
 
+
+
+# add_console_handler - commit 4
