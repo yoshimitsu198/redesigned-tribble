@@ -33,3 +33,5 @@ def get_timestamp():
 # add_date_formatting - commit 11
 
 # add_number_validation - commit 12
+
+# add_email_validation - commit 13
