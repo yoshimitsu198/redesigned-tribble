@@ -4,10 +4,16 @@ Main application entry point.
 """
 
 import config
+import logger
 
 def main():
+    log = logger.setup_logger()
+    log.info("Application starting")
+    
     print(f"Welcome to {config.APP_NAME}!")
     print(f"Version {config.APP_VERSION}")
+    
+    log.info("Application initialized successfully")
     return 0
 
 if __name__ == "__main__":
