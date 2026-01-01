@@ -12,3 +12,8 @@ def validate_input(value):
         return False
     return True
 
+def get_timestamp():
+    """Get current timestamp as a string."""
+    from datetime import datetime
+    return datetime.now().isoformat()
+
