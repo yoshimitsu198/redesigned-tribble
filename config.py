@@ -11,3 +11,7 @@ DEBUG = False
 API_TIMEOUT = 30
 MAX_RETRIES = 3
 
+# Logging settings
+LOG_LEVEL = "INFO"
+LOG_FILE = "app.log"
+
