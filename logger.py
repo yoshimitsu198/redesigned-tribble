@@ -24,3 +24,5 @@ def setup_logger():
 # add_console_handler - commit 4
 
 # improve_formatter - commit 15
+
+# add_log_rotation - commit 16
