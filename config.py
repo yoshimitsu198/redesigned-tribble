@@ -22,3 +22,5 @@ LOG_FILE = "app.log"
 # add_version_constant - commit 6
 
 # add_env_vars - commit 17
+
+# add_config_validation - commit 18
