@@ -3,9 +3,11 @@
 Main application entry point.
 """
 
+import config
+
 def main():
-    print("Welcome to Redesigned Tribble!")
-    print("Version 1.0.0")
+    print(f"Welcome to {config.APP_NAME}!")
+    print(f"Version {config.APP_VERSION}")
     return 0
 
 if __name__ == "__main__":
