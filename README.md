@@ -20,3 +20,15 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Testing
+
+Run tests with:
+
+```bash
+python -m pytest tests/
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
