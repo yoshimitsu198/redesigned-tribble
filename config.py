@@ -28,3 +28,5 @@ LOG_FILE = "app.log"
 # add_http_constants - commit 19
 
 # add_string_constants - commit 20
+
+# add_error_messages - commit 26
