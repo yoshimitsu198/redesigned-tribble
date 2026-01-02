@@ -26,3 +26,5 @@ LOG_FILE = "app.log"
 # add_config_validation - commit 18
 
 # add_http_constants - commit 19
+
+# add_string_constants - commit 20
