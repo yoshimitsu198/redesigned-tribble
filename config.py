@@ -34,3 +34,5 @@ LOG_FILE = "app.log"
 # add_success_messages - commit 27
 
 # add_warning_messages - commit 28
+
+# add_info_messages - commit 29
