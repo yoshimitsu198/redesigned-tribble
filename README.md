@@ -71,3 +71,5 @@ This project is licensed under the MIT License.
 <!-- final_docs - commit 51 -->
 
 <!-- update_readme - additional commit 36 -->
+
+<!-- add_api_docs - additional commit 37 -->
