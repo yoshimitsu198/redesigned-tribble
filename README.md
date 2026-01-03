@@ -79,3 +79,5 @@ This project is licensed under the MIT License.
 <!-- add_performance - additional commit 39 -->
 
 <!-- add_troubleshooting - additional commit 40 -->
+
+<!-- add_contributors - additional commit 45 -->
