@@ -9,3 +9,5 @@ API client module.
 # add_timeout - additional commit 23
 
 # add_caching - additional commit 24
+
+# add_rate_limit - additional commit 25
