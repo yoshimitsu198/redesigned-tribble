@@ -45,3 +45,5 @@ This project is licensed under the MIT License.
 <!-- add_utils_docs - commit 32 -->
 
 <!-- add_main_docs - commit 33 -->
+
+<!-- add_logger_docs - commit 34 -->
