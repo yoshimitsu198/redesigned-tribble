@@ -9,3 +9,5 @@ Database connection module.
 # add_transactions - additional commit 28
 
 # add_query_builder - additional commit 29
+
+# add_migrations - additional commit 30
