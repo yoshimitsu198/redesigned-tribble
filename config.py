@@ -38,3 +38,5 @@ LOG_FILE = "app.log"
 # add_info_messages - commit 29
 
 # add_default_values - commit 30
+
+# add_config_comments - commit 38
