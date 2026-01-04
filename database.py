@@ -7,3 +7,5 @@ Database connection module.
 # add_pooling - additional commit 27
 
 # add_transactions - additional commit 28
+
+# add_query_builder - additional commit 29
