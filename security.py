@@ -7,3 +7,5 @@ Security utilities module.
 # add_hashing - additional commit 32
 
 # add_tokens - additional commit 33
+
+# add_encryption_utils - additional commit 34
