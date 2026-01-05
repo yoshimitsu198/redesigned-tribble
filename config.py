@@ -44,3 +44,5 @@ LOG_FILE = "app.log"
 # bump_version - commit 50
 
 # add_config_file - additional commit 11
+
+# add_schema - additional commit 12
