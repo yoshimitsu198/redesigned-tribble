@@ -29,3 +29,5 @@ if __name__ == "__main__":
 # add_interactive - additional commit 17
 
 # add_verbose - additional commit 18
+
+# add_quiet - additional commit 19
