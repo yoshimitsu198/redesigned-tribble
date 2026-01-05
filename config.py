@@ -48,3 +48,5 @@ LOG_FILE = "app.log"
 # add_schema - additional commit 12
 
 # add_env_configs - additional commit 13
+
+# add_hot_reload - additional commit 14
