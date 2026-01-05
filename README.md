@@ -57,3 +57,5 @@ This project is licensed under the MIT License.
 <!-- add_dev_setup - commit 42 -->
 
 <!-- add_contributing - commit 43 -->
+
+<!-- add_style_guide - commit 44 -->
