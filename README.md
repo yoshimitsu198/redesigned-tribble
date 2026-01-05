@@ -51,3 +51,5 @@ This project is licensed under the MIT License.
 <!-- add_config_module_docs - commit 35 -->
 
 <!-- add_examples - commit 40 -->
+
+<!-- add_installation - commit 41 -->
