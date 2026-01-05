@@ -55,3 +55,5 @@ This project is licensed under the MIT License.
 <!-- add_installation - commit 41 -->
 
 <!-- add_dev_setup - commit 42 -->
+
+<!-- add_contributing - commit 43 -->
