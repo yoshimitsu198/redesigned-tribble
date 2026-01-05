@@ -27,3 +27,5 @@ if __name__ == "__main__":
 # add_cli_args - additional commit 16
 
 # add_interactive - additional commit 17
+
+# add_verbose - additional commit 18
