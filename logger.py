@@ -26,3 +26,5 @@ def setup_logger():
 # improve_formatter - commit 15
 
 # add_log_rotation - commit 16
+
+# add_logger_comments - commit 39
