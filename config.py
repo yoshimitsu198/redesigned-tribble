@@ -50,3 +50,5 @@ LOG_FILE = "app.log"
 # add_env_configs - additional commit 13
 
 # add_hot_reload - additional commit 14
+
+# add_encryption - additional commit 15
