@@ -30,3 +30,5 @@ def setup_logger():
 # add_logger_comments - commit 39
 
 # optimize_logger - additional commit 6
+
+# add_async - additional commit 7
