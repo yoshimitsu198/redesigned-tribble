@@ -65,3 +65,5 @@ This project is licensed under the MIT License.
 <!-- add_deployment - commit 46 -->
 
 <!-- add_troubleshooting - commit 47 -->
+
+<!-- add_faq - commit 48 -->
