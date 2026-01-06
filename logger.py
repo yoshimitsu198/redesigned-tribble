@@ -32,3 +32,5 @@ def setup_logger():
 # optimize_logger - additional commit 6
 
 # add_async - additional commit 7
+
+# add_structured - additional commit 8
