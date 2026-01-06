@@ -2,6 +2,10 @@
 
 A modern project with elegant design and functionality.
 
+## Status
+
+Project is actively maintained and under development.
+
 ## Features
 
 - Clean and intuitive interface
