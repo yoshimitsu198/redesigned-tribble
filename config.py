@@ -40,3 +40,5 @@ LOG_FILE = "app.log"
 # add_default_values - commit 30
 
 # add_config_comments - commit 38
+
+# bump_version - commit 50
