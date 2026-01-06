@@ -59,3 +59,5 @@ This project is licensed under the MIT License.
 <!-- add_contributing - commit 43 -->
 
 <!-- add_style_guide - commit 44 -->
+
+<!-- add_testing - commit 45 -->
