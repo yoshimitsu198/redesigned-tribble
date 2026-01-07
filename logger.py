@@ -1,40 +1,25 @@
 """
-Logging utility for the application.
+Redesigned Tribble - Performance Improvement
 """
 
 import logging
-import config
+from functools import lru_cache
 
-def setup_logger():
-    """Set up and configure the application logger."""
-    logger = logging.getLogger(config.APP_NAME)
-    logger.setLevel(getattr(logging, config.LOG_LEVEL))
-    
-    handler = logging.FileHandler(config.LOG_FILE)
-    formatter = logging.Formatter(
-        '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-    )
-    handler.setFormatter(formatter)
-    logger.addHandler(handler)
-    
-    return logger
+logger = logging.getLogger(__name__)
 
+@lru_cache(maxsize=128)
+def cached_computation(value):
+    """Cached computation for better performance"""
+    logger.debug(f"Computing value: {value}")
+    # Complex computation here
+    return value ** 2
 
+def batch_process(items, batch_size=100):
+    """Process items in batches for better memory usage"""
+    for i in range(0, len(items), batch_size):
+        batch = items[i:i + batch_size]
+        yield process_batch(batch)
 
-# add_console_handler - commit 4
-
-# improve_formatter - commit 15
-
-# add_log_rotation - commit 16
-
-# add_logger_comments - commit 39
-
-# optimize_logger - additional commit 6
-
-# add_async - additional commit 7
-
-# add_structured - additional commit 8
-
-# add_filtering - additional commit 9
-
-# add_timestamp_format - additional commit 10
+def process_batch(batch):
+    """Process a single batch"""
+    return [item.upper() for item in batch]
